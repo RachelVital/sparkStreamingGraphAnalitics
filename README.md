@@ -1,9 +1,7 @@
 # sparkStreamingGraphAnalitics
 
-## Prerequisites:
+Before starting executing these code, you have should have already:
 
-* Zookeeper started
-* Kafka Installed
-* Kafka server started
-* Kafka topic created
-* producer console started
+* Kafka server running
+* Kafka Topic shoud be created.
+* kafka producer and consumer console started for testing purpose.
